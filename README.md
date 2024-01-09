@@ -1,1 +1,1 @@
-[Create React App](https://github.com/facebook/create-react-app).
+[Live Preview](https://Jurbak.github.io/React).
